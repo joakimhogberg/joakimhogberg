@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## About
-- 💻 Working @ Bravero AB
-- 📍Located in Stockholm, Sweden
+- 💼 I work as a Solutions Architect at Bravero AB. Focusing on Microsoft 365 development.
+- 📍 Located in Stockholm, Sweden
 
 
 
