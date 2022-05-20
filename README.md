@@ -2,7 +2,7 @@
 
 ## About
 - 💼 I work as a Solutions Architect at Bravero AB
-- ☁ Always in the cloud
+- ☁ Coding in the cloud
 - 💬 Ask me about Microsoft 365 & Azure
 - 📍 Located in Stockholm, Sweden
 
